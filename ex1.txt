@@ -1,0 +1,7 @@
+C) é emitido a saída "Falha na comunicação: Connection refused: connect"
+pois a classe cliente tentar conectar a uma classe servidor sem exito.
+d)é emitido a saida "Servidor iniciado na porta 3344", abrindo o servidor.
+e)quantas janelas eu quiser serão exibidas pedindo mensagens para serem enviadas
+ao servido pela classe simpleClienteTeste
+f) a caixa de texto impressa pro usúario continuará até ser finalizada, mesmo com outras em execução.
+g)irá dar erro ao criar o servidor pois já tem um servidor na porta de destino.
